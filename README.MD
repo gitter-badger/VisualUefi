@@ -1,5 +1,7 @@
 ## Synopsis
 
+[![Join the chat at https://gitter.im/NextSecurity/VisualUefi](https://badges.gitter.im/NextSecurity/VisualUefi.svg)](https://gitter.im/NextSecurity/VisualUefi?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 VisualUEFI is 
 
 * A Solution and set of Visual Studio Project Files to allow building the official EDK-II without the use of inf files, python and 50 other build tools, a custom dependency tracker and build system, and twenty other custom pieces of code.
